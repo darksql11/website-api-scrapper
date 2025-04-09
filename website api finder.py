@@ -8,7 +8,7 @@ options = {
 
 driver = webdriver.Chrome(seleniumwire_options=options)
 
-target_url = 'https://target-website.com/profile/1234'
+target_url = 'https://target-website.com/'
 driver.get(target_url)
 
 time.sleep(10)
