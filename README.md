@@ -62,5 +62,5 @@ Feel free to use, modify, and distribute.
 ### 📬 Contact
 
 \
-Discord :  # DARKSQL11
+# Discord : DARKSQL11
 
