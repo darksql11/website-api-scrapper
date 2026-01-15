@@ -23,7 +23,7 @@ Useful for security research, reverse engineering, and automation tasks.
 ### 🚀 Installation
 
 ```bash
-pip install selenium selenium-wire blinker certifi pyOpenSSL mitmproxy
+pip install selenium-wire webdriver-manager setuptools blinker==1.7.0
 ```
 
 Make sure [ChromeDriver](https://chromedriver.chromium.org/downloads) is installed and matches your Chrome version.
